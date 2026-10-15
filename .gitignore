@@ -1,0 +1,8 @@
+# Script gerador de dados (uso local, não versionado)
+gerar_oportunidades.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
